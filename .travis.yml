@@ -6,7 +6,6 @@ go:
   - 1.12.7
 
 arch:
-  - amd64
   - arm64
 
 services:
